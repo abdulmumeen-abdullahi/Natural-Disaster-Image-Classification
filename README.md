@@ -1,1 +1,1 @@
-# Natural-Disaster-Image-Classification
+# Natural Disaster Damage Image Classification
